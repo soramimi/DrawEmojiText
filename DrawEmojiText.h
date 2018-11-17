@@ -4,6 +4,6 @@
 #include <QPainter>
 #include <QString>
 
-void DrawEmojiText(QPainter *painter, int x, int y, QString const &text);
+void drawEmojiText(QPainter *painter, int x, int y, QString const &text);
 
 #endif // DRAWEMOJITEXT_H
